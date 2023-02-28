@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Isuru Dissanayake</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Developer From Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurudilanga&label=Profile%20views&color=0e75b6&style=flat" alt="isurudilanga" /> </p>
