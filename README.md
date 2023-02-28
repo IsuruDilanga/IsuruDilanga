@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AUnite**
 
-- 🌱 I’m currently learning **Machin Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Java, Python , React**
 
