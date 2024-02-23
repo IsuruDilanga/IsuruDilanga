@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurudilanga&label=Profile%20views&color=0e75b6&style=flat" alt="isurudilanga" /> </p>
 
-- 🔭 I’m currently working on **AUnite**
+- 🔭 I’m currently working as **Software Engineering Internship**
 
 - 🌱 I’m currently learning **Machine Learning**
 
